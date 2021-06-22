@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.n26.HttpJsonIT" time="7.012000" tests="6" errors="0" skipped="0" failures="0">
+    <testcase name="Test 100" classname="com.n26.HttpJsonIT" time="0.444000"/>
+    <testcase name="Outdated transactions" classname="com.n26.HttpJsonIT" time="0.020000"/>
+    <testcase name="Random transactions" classname="com.n26.HttpJsonIT" time="1.524000"/>
+    <testcase name="Expiring transactions" classname="com.n26.HttpJsonIT" time="5.014000"/>
+    <testcase name="JSON errors" classname="com.n26.HttpJsonIT" time="0.007000"/>
+    <testcase name="BigDecimal rounding" classname="com.n26.HttpJsonIT" time="0.003000"/>
+</testsuite>
